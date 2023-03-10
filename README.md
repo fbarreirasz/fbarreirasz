@@ -15,6 +15,6 @@ Amo a área e tenho muita dedicação para levar meus estudos e profissão adian
 
 ## O que eu não sei, me dê alguns dias!! 😁
 
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=fbarreirasz&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/fbarreirasz_)
+[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=fbarreirasz&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/fbarreirasz)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbarreirasz&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/fbarreirasz)
