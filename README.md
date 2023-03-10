@@ -1,6 +1,6 @@
 # Olá!! Eu sou o Felipe Barreira 👋
 
-## Sobre mim:
+## Sobre:
 
 Atualmente estou estudando para me tornar um Desenvolvedor Full Stack!! 😁
 
@@ -15,6 +15,9 @@ Amo a área e tenho muita dedicação para levar meus estudos e profissão adian
 
 ## O que eu não sei, me dê alguns dias!! 😁
 
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=fbarreirasz&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/fbarreirasz)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbarreirasz&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/fbarreirasz)
+<div align="left">
+  <a href="https://github.com/duribeiro">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fbarreirasz&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
