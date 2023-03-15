@@ -19,8 +19,8 @@ Amo a área e tenho muita dedicação para levar meus estudos e profissão adian
 
 <div align="center">
   <a href="https://github.com/fbarreirasz"> 
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fbarreirasz&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true"/>
-    <img height="150.2em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbarreirasz&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fbarreirasz&show_icons=true&title_color=9C30FA&icon_color=9C30FA&text_color=EFE4C4&bg_color=2C2C2B&count_private=true&"/>
+    <img height="150.2em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbarreirasz&layout=compact&title_color=9C30FA&text_color=EFE4C4&hide=java&bg_color=2C2C2B"/>
   </a>
 </div>
 
